@@ -15,6 +15,12 @@ I'm Jacob Oliver, a student at Brigham Young University-Idaho interested in Cybe
 
 - Proficient in: Python3, Linux CLI, Bash, HTML, CSS
 - Skills: Leadership, Teamwork, Problem Solving
+- 
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## Let's Connect!
 
@@ -22,8 +28,5 @@ I'm Jacob Oliver, a student at Brigham Young University-Idaho interested in Cybe
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+[![](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]()
+
