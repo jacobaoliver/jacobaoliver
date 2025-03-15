@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**jacobaoliver/jacobaoliver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jacob Oliver
 
-Here are some ideas to get you started:
+Hello, GitHub! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Jacob Oliver, a student at Brigham Young University-Idaho interested in Cyber-Tech and Network Security. Welcome to my GitHub profile!
+
+## About Me
+
+- I'm currently learning the most effective methods to configure network devices using tools such as Linux CLI and Cisco Packet Tracer.
+- My goals are to make the world safer place and to help protect people's privacy. I plan to finish my Bachelors and pursue a Masters in Cybersecurity.
+- Ask me about my current projects. I am constantly working on something new!
+
+## Technologies and Tools
+
+- Proficient in: Python3, Linux CLI, Bash
+- Skills: Leadership, Teamwork, Problem Solving
+
+## Let's Connect!
+
+- Here is my LinkedIn profile (https://www.linkedin.com/in/jacob-oliver-242355339/)
+
+Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
